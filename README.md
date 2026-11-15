@@ -21,6 +21,11 @@ nobody remembers the thief, but the custom is still there.
 *Year 1: the tribe gathers at the Altar to ask for rain. The left panel shows Ilo, the head of the faith, and his thoughts.*
 </details>
 
+## Why I'm making this
+
+In RimWorld, religion is basically a set of buffs and bans. I want it to grow by itself,
+out of whatever actually happens in the colony. — Artur
+
 ## Design pillars
 
 1. **Faith grows out of events.** No doctrine is picked from a menu; every belief comes from something that happened.
