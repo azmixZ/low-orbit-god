@@ -9,9 +9,17 @@ You can't give orders. You can call rain, strike with lightning, drop a supply c
 What it *means* is up to them. Lightning lands next to a thief, and now "the sky punishes thieves". A few generations later
 nobody remembers the thief, but the custom is still there.
 
+![Prototype gameplay](media/gameplay.gif)
+
+*Playable prototype: rain over the Altar, lightning into a tree next to the village, a supply capsule. People run, gather and argue about what the sky meant.*
+
+<details>
+<summary>Still screenshot</summary>
+
 ![Prototype: the colony map](media/prototype-map.png)
 
-*Playable prototype, year 1: the tribe gathers at the Altar to ask for rain. The left panel shows Ilo, the head of the faith, and his thoughts.*
+*Year 1: the tribe gathers at the Altar to ask for rain. The left panel shows Ilo, the head of the faith, and his thoughts.*
+</details>
 
 ## Design pillars
 
